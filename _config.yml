@@ -1,0 +1,28 @@
+name: ToursChicago.com
+favicon: null
+layout_spectrum: 0.7919695798773319
+typography_spectrum: 0.524832931580022
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3672250418458134
+  lightness: 0.3211769540794194
+  saturation: 0.7868489874526858
+  rhythmicContrast: 0.9203234657179564
+purpose: []
